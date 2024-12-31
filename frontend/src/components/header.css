@@ -1,0 +1,101 @@
+
+.headershop{
+    width:130px;
+    position: absolute;
+    font-size: 15px;
+    margin-left:5px;
+}
+
+.location{
+    width:100px;
+    position: absolute;
+    margin:50px 5px;
+    background-color: orange;
+    border-radius: 15px;
+    font-size: 13px;
+
+}
+
+.headerpage{
+    position: relative;
+    display: flex;    
+    height:100px;
+    width:100%;
+
+}
+.search input[type=text] {
+    position: absolute;
+    width:340px;
+    margin:50px 800px;
+    padding:2px;
+    border-radius: 15px; 
+    border-color: rgb(249, 248, 246);
+    font-size: 14px;
+}
+.search p{
+    position: absolute;
+    margin:50px 783px;
+}
+.navbar ul{
+    margin: 0;
+    padding:0;
+    list-style:none;
+    display:flex;
+    gap:2rem;
+    font-size: 15px;
+    background-color: antiquewhite;
+}
+.navbar a{
+    text-decoration: none;
+    color:black;
+}
+.profile{
+    width:150px;
+    position: absolute;
+    margin-left:1150px;
+    font-size: 13px;
+    background-color: white;
+}
+
+.b{
+    background-color: rgb(10, 10, 12);
+    color:white;
+    border-radius: 3px;
+}
+.c{
+    display:none;
+}
+.b:hover {
+    background-color: rgb(245, 243, 241);
+    color:black;
+}
+.b:hover .c{
+    display: block;
+}
+.profile:hover .c{
+    display:block;
+}
+.c a{
+    border-radius: 3px;
+    background-color: rgb(15, 15, 15);
+    color:white;
+    text-decoration: none;
+    font-size: 12px;
+}
+.c:hover a{
+    background-color:rgb(253, 249, 249);
+    color:black;
+}
+.cartstyle a{
+    background-color:orangered;
+    color:black;
+    text-decoration: none;
+    padding:1px 5px;
+    border-radius: 5px;
+    margin-left: 1150px;
+    border:2px solid rgb(246, 6, 6);
+    font-size: 13px;
+}
+.cartstyle{
+    margin-bottom: 5px;
+}

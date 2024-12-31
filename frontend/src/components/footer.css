@@ -1,0 +1,30 @@
+.footerpage{
+
+    background-color: black;
+    color:white;
+    border:1px solid rgb(248, 244, 244);
+    margin-top:100%;
+    font-size: 12px;
+    position: relative;
+    display: flex;
+}
+.footercontent p{
+    width:200px;
+    position: absolute;
+}
+.language{
+    position: absolute;
+    margin-left:1180px;
+}
+.aboutus{
+    position: absolute;
+    margin-left:450px;
+}
+.contact{
+    position: absolute;
+    margin-left:550px;
+}
+.help{
+    position: absolute;
+    margin-left:650px;
+}

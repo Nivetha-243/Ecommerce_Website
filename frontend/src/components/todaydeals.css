@@ -1,0 +1,28 @@
+#todayimages{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin:0px -40px  0px  0px;
+
+}
+.todayimages1 img{
+    border: 1px solid black;
+    height:250px;
+    width:250px;
+}
+ .todayimages2{
+    display: flex;
+}
+.todayimages2 img{
+    border: 1px solid rgb(242, 240, 240);
+    height:150px;
+    width:150px;
+}
+
+.subimage img{
+    width: 70%;
+    height: 70%;
+    transition: transform 1.5s ease;
+}
+.subimage:hover img {
+    transform: scale(1.5);
+}

@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(232, 230, 228);
+}
+.loginpage{
+   
+    margin:80px 100px;
+    display: flex;
+}
+.image img{
+    border-radius: 10px;
+    display: flex;
+    width:630px;
+    height: 365px;
+    position:absolute;
+    margin-top:40px;
+}
+
+.loginform{
+    position:absolute;
+    background-color:rgb(252, 252, 251);
+    margin:0px 0px 200px 620px;
+    padding:45px 40px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(252, 252, 251);
+}
+.form{
+    background-color:rgb(252, 252, 251);
+    
+}
+.shop{
+    font-size: 30px;
+}
+.email,.password{
+    border-radius: 15px;
+    border-color: rgb(252, 252, 251);;
+    width:300px;
+    padding:6px;
+    margin:10px;
+}
+.shopnow{
+    border-radius: 10px;
+    border-color: orange;
+    background-color:orange;
+    width:315px;
+    padding:6px;
+    margin:10px;
+}
+.register{
+    
+    color:orange;
+    text-decoration: none;
+}
+.end{
+    margin:5px;
+}
+.header{
+    display:none;
+}
