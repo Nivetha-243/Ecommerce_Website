@@ -10,8 +10,8 @@ The platform supports user authentication.
 ## Table of Content
 
 - [Installation](#installation)
+- [Technology](#technologies)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
 
 ## [Installation](#installation)
 
@@ -48,6 +48,16 @@ The platform supports user authentication.
     ```bash
     npm start
     ```
+## [Technology](#technologies)
+-For FrontEnd-
+  --HTML
+  --CSS
+  --REACT
+  --AXIOS
+-For BackEnd-
+  --DJANGO REST FRAMEWORK
+  --MYSQL Database
+
 ## Usage
 
 Once the app is running, open your browser and go to http://localhost:3000 to access the app.
