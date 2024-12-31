@@ -58,7 +58,7 @@ The platform supports user authentication.
   --DJANGO REST FRAMEWORK
   --MYSQL Database
 
-## Usage(#usage)
+## [Usage](#usage)
 
 Once the app is running, open your browser and go to http://localhost:3000 to access the app.
 
